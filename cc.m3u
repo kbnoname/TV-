@@ -1,0 +1,5 @@
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Avi JioTV",Colors Cineplex HD
+https://jio.instream.ml/jio.php?c=Colors_Cineplex_HD&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Avi JioTV",DD National
+https://jio.instream.ml/jio.php?c=DD_National&q=800&e=.m3u8
